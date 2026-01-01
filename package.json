@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "colors": "^1.4.0",
     "dotenv": "^17.2.3",
     "mongoose": "^8.21.0",
     "puppeteer": "^24.34.0"

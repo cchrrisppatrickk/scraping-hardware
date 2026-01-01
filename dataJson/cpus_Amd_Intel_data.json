@@ -1,0 +1,2773 @@
+[
+    {
+        "name": "AMD Ryzen 7 9800X3D",
+        "brand": "AMD",
+        "price": 453.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7e2d17b7b777f8b56e1b5119aa97be20.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "4.7 GHz",
+            "boost_clock": "5.2 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 120,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 7800X3D",
+        "brand": "AMD",
+        "price": 384.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f0e0e59d75066ec825667b71c31e3c83.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "4.2 GHz",
+            "boost_clock": "5 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 120,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 9600X",
+        "brand": "AMD",
+        "price": 191.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8a0df381931efb7323f458cfc42260f8.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.9 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 7600X",
+        "brand": "AMD",
+        "price": 179.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/fd6305088c9d16d59017b380fb9c408a.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "4.7 GHz",
+            "boost_clock": "5.3 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 105,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 9950X3D",
+        "brand": "AMD",
+        "price": 679.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c091adac8120c424d3fcf03bec914302.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "4.3 GHz",
+            "boost_clock": "5.7 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 170,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 5500",
+        "brand": "AMD",
+        "price": 74.97,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/49fca908d8863ded4df790bd3af6bc12.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.6 GHz",
+            "boost_clock": "4.2 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 9700X",
+        "brand": "AMD",
+        "price": 301.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a0f5a161d8c7ff3c6b0827423537a029.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "5.5 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 7700X",
+        "brand": "AMD",
+        "price": 246.25,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6d3fb7600f26fb1e94e8b0c1a99e0bfa.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "4.5 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 105,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 5600",
+        "brand": "AMD",
+        "price": 149.94,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/49fca908d8863ded4df790bd3af6bc12.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.5 GHz",
+            "boost_clock": "4.4 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 5800X",
+        "brand": "AMD",
+        "price": 219.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9b4cefb2e43f2c358f3a97a31e1be90b.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "4.7 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 105,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 5600X",
+        "brand": "AMD",
+        "price": 200.09,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3ef757133d38ac40afe75da691ba7d60.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "4.6 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 5700X",
+        "brand": "AMD",
+        "price": 209.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a0931f2db7bb9c37a199429c85a0d2e1.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "4.6 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 7500F",
+        "brand": "AMD",
+        "price": 176.91,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/521c4c2de515ace1e8bb11575e797393.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "5 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 9900X",
+        "brand": "AMD",
+        "price": 389.95,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8148c56c91723188e32a508682fa9854.256p.jpg",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "4.4 GHz",
+            "boost_clock": "5.6 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 120,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 7600",
+        "brand": "AMD",
+        "price": 189.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f0d757d712dd7145ecf00152653e5ec1.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "5.1 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 7900X",
+        "brand": "AMD",
+        "price": 314.49,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8de723005cfc1b85071c4abf4d76bd4e.256p.jpg",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "4.7 GHz",
+            "boost_clock": "5.6 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 170,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 5800XT",
+        "brand": "AMD",
+        "price": 189.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ce5ffddc2c5a21f074f6abcc6e972249.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "4.8 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 105,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 8400F",
+        "brand": "AMD",
+        "price": 164.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2c2a93ae222699dace151a0f718e21c0.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "4.2 GHz",
+            "boost_clock": "4.7 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 5900X",
+        "brand": "AMD",
+        "price": 269.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1d7073a2deda3bd22963a7e248bbe3e4.256p.jpg",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "4.8 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 105,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 7600X3D",
+        "brand": "AMD",
+        "price": 338.11,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b684575be6a62b1fe86628cbbbca2ac4.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "4.1 GHz",
+            "boost_clock": "4.7 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 9950X",
+        "brand": "AMD",
+        "price": 532.42,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/53669af807496f1034349a25fc685672.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "4.3 GHz",
+            "boost_clock": "5.7 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 170,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 5800X3D",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f83c6c4ee8cb5a6801f35aae5fc5d018.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "4.5 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 105,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 5950X",
+        "brand": "AMD",
+        "price": 349.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1d7073a2deda3bd22963a7e248bbe3e4.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "4.9 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 105,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 5700G",
+        "brand": "AMD",
+        "price": 172.3,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f599944d7bed683e57062447764ce9d9.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "4.6 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "Radeon Vega 8",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 8500G",
+        "brand": "AMD",
+        "price": 154.97,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2a87a9a2a5a34b013ae637285470d93a.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "4.1 GHz",
+            "boost_clock": "5 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon 740M",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 5600G",
+        "brand": "AMD",
+        "price": 198.8,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1dd09dfdc581be6224a323d49d714c7f.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.9 GHz",
+            "boost_clock": "4.4 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "Radeon Vega 7",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 5700X3D",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7945bbda871bfbf95a9138fd184f4a6e.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3 GHz",
+            "boost_clock": "4.1 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 105,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 7700",
+        "brand": "AMD",
+        "price": 274.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6e6bcad6744a6a7302394f2edf5a6e34.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.6 GHz",
+            "boost_clock": "5.3 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 9900X3D",
+        "brand": "AMD",
+        "price": 569.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/990c9be284c611b84c6a33e9706b1efa.256p.jpg",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "4.4 GHz",
+            "boost_clock": "5.5 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 120,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 8700F",
+        "brand": "AMD",
+        "price": 248.97,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b6ab2ee57b91c56a92a3da6346e47627.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "4.1 GHz",
+            "boost_clock": "5 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 5700",
+        "brand": "AMD",
+        "price": 156.85,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5c2e33214954959b8fe3759699e29ad2.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "4.6 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 7800X3D",
+        "brand": "AMD",
+        "price": 359.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e8e7d9593f6e2f60baf789cbfb94eb55.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "4.2 GHz",
+            "boost_clock": "5 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 120,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 5600GT",
+        "brand": "AMD",
+        "price": 149.47,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7a6babfed0885332f51c70772687fcd1.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.6 GHz",
+            "boost_clock": "4.6 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "Radeon Vega 7",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 7950X3D",
+        "brand": "AMD",
+        "price": 750.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4f8b13807b9b9e2ab921ddb6e6e81afb.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "4.2 GHz",
+            "boost_clock": "5.7 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 120,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 8700G",
+        "brand": "AMD",
+        "price": 279.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e5ca60dc2137886fac6e13e30aad8ed9.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "4.2 GHz",
+            "boost_clock": "5.1 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon 780M",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 2600",
+        "brand": "AMD",
+        "price": 99.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/55aea2dd64e2e3a3e3b1d678048d8d76.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "3.9 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 8600G",
+        "brand": "AMD",
+        "price": 188.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d5ae2e9f000a9c994f70e092b05c80ef.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "4.3 GHz",
+            "boost_clock": "5 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon 760M",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 3 3200G",
+        "brand": "AMD",
+        "price": 65.48,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3567a863156c083a7d4c8fcb7e0dbdac.256p.jpg",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "3.6 GHz",
+            "boost_clock": "4 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 65,
+            "integrated_graphics": "Radeon Vega 8",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 7500F",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/16ab7cbdba34490d23b883f1253ab148.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "5 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 7950X",
+        "brand": "AMD",
+        "price": 545.95,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8de723005cfc1b85071c4abf4d76bd4e.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "4.5 GHz",
+            "boost_clock": "5.7 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 170,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 3400G",
+        "brand": "AMD",
+        "price": 88.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/43e2914b40ccb9ab7ce39eb656db3b44.256p.jpg",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "4.2 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 65,
+            "integrated_graphics": "Radeon Vega 11",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 5900XT",
+        "brand": "AMD",
+        "price": 319.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/36739b3a1511a7c493b2f987b43cd144.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "3.3 GHz",
+            "boost_clock": "4.8 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 105,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 5600XT",
+        "brand": "AMD",
+        "price": 174.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a010fc03fea2809af2c8fd966fbd483c.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "4.7 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 2700X",
+        "brand": "AMD",
+        "price": 255.49,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4e84967ef18c9b42e543b58c836d73ef.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "4.3 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 105,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 7500X3D",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e6fba40ca11c108409ebc9302b371457.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "4 GHz",
+            "boost_clock": "4.5 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 5500GT",
+        "brand": "AMD",
+        "price": 125.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/65f2a2e1999cd06b510b8ee145a2c14f.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.6 GHz",
+            "boost_clock": "4.4 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "Radeon Vega 7",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 7900",
+        "brand": "AMD",
+        "price": 401.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/119ef93ef95a60950418031082149c5b.256p.jpg",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 7900X3D",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/98c4874ed550e2bbcc2d29d67177ddc8.256p.jpg",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "4.4 GHz",
+            "boost_clock": "5.6 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 120,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 9600",
+        "brand": "AMD",
+        "price": 279.82,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/27f7a8fb1bb5a1949879ec482c922757.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "5.2 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 2600X",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/55aea2dd64e2e3a3e3b1d678048d8d76.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.6 GHz",
+            "boost_clock": "4.2 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 95,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 7700",
+        "brand": "AMD",
+        "price": 275.92,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1f2aab4ab8e27a0ec320481944020943.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.6 GHz",
+            "boost_clock": "5.3 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 2700",
+        "brand": "AMD",
+        "price": 335.73,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/fee6d8b626235a58c1cc1577e6760118.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.2 GHz",
+            "boost_clock": "4.1 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 7400F",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7160b7c08f720d19f9ae682c2f6f7563.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "4.7 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 PRO 7945",
+        "brand": "AMD",
+        "price": 798.69,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0060e87b1c0093626f67e76793e68c41.256p.jpg",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 5600X3D",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.3 GHz",
+            "boost_clock": "4.4 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 105,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD EPYC 4585PX",
+        "brand": "AMD",
+        "price": 800.33,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/772d3bad6c842fdab42f871305ecac4a.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "4.3 GHz",
+            "boost_clock": "5.7 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 170,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 5600T",
+        "brand": "AMD",
+        "price": 174.12,
+        "image": "https://m.media-amazon.com/images/I/31DogRaRuKL.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.5 GHz",
+            "boost_clock": "4.5 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 1600 (12nm)",
+        "brand": "AMD",
+        "price": 99.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2447958ccca245b5827bf05929f870e6.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.2 GHz",
+            "boost_clock": "3.6 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 7600X3D",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d98c57706912078c4c4f0b515eb4cbf9.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "4.1 GHz",
+            "boost_clock": "4.7 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 5500X3D",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3 GHz",
+            "boost_clock": "4 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 105,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD EPYC 4545P",
+        "brand": "AMD",
+        "price": 593.92,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/93d40a5558436eb5e63800c8df5956a7.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "3 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 9500F",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1f1301dedbebe86fd8f58493d87f51e2.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "5 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 9700F",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "5.5 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD EPYC 4564P",
+        "brand": "AMD",
+        "price": 558.21,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bd024a4feb6bc64debca06eba27ce0c7.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "4.5 GHz",
+            "boost_clock": "5.7 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 170,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD EPYC 4565P",
+        "brand": "AMD",
+        "price": 575.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/93d40a5558436eb5e63800c8df5956a7.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "4.3 GHz",
+            "boost_clock": "5.7 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 170,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 5600XT",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a5984c355b088bf1632eca98efd25f8f.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "4.7 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 3400G",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/fd7b679a51670fc1161384cf95ba464f.256p.jpg",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "4.2 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 65,
+            "integrated_graphics": "Radeon Vega 11",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 9 PRO 9945",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 3 3200G",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1367e7b7cd727836ed3685b95c2be94e.256p.jpg",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "3.6 GHz",
+            "boost_clock": "4 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 65,
+            "integrated_graphics": "Radeon Vega 8",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD EPYC 4464P",
+        "brand": "AMD",
+        "price": 499.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bd024a4feb6bc64debca06eba27ce0c7.256p.jpg",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 7400",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.3 GHz",
+            "boost_clock": "4.3 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 2600",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://m.media-amazon.com/images/I/31XEept+wTL.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "3.9 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD EPYC 4245P",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/93d40a5558436eb5e63800c8df5956a7.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.9 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 2600X",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bd22e4deac30110021a64d9c7f9b8944.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.6 GHz",
+            "boost_clock": "4.2 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 95,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD EPYC 4465P",
+        "brand": "AMD",
+        "price": 463.71,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/892aed0b32342b4ac4b69c5f1d773dcb.256p.jpg",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD EPYC 4364P",
+        "brand": "AMD",
+        "price": 328.18,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bd024a4feb6bc64debca06eba27ce0c7.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "4.5 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 105,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 3 1200 (12nm)",
+        "brand": "AMD",
+        "price": 79.98,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2718f93893c0e844d4eb23c81d86b009.256p.jpg",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "3.1 GHz",
+            "boost_clock": "3.4 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 5600T",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a5984c355b088bf1632eca98efd25f8f.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.5 GHz",
+            "boost_clock": "4.5 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 5600F",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3 GHz",
+            "boost_clock": "4 GHz",
+            "microarchitecture": "Zen 3",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 PRO 7645",
+        "brand": "AMD",
+        "price": 438.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0060e87b1c0093626f67e76793e68c41.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "5.1 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 PRO 7745",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0060e87b1c0093626f67e76793e68c41.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "5.3 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD EPYC 4345P",
+        "brand": "AMD",
+        "price": 349.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/772d3bad6c842fdab42f871305ecac4a.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "5.5 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD EPYC 4244P",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/23358390bd85e80ecf4477806ba88e46.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "5.1 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 PRO 7745",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0060e87b1c0093626f67e76793e68c41.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "5.3 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 2700",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://m.media-amazon.com/images/I/31lpF8yZH6S.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.2 GHz",
+            "boost_clock": "4.1 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 7 PRO 9745",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 PRO 7445",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.3 GHz",
+            "boost_clock": "4.3 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 5 PRO 9645",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.9 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Zen 5",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD Ryzen 3 1200 (12nm)",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "3.1 GHz",
+            "boost_clock": "3.4 GHz",
+            "microarchitecture": "Zen+",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD EPYC 4584PX",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "4.2 GHz",
+            "boost_clock": "5.7 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 120,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD EPYC 4344P",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bd024a4feb6bc64debca06eba27ce0c7.256p.jpg",
+        "specs": {
+            "core_count": 8,
+            "core_clock": "3.8 GHz",
+            "boost_clock": "5.3 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 65,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "AMD EPYC 4484PX",
+        "brand": "AMD",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "4.4 GHz",
+            "boost_clock": "5.6 GHz",
+            "microarchitecture": "Zen 4",
+            "tdp": 120,
+            "integrated_graphics": "Radeon",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i7-14700K",
+        "brand": "Intel",
+        "price": 357.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c3e5d01cec2fa20b6f47fe8a400c08d6.256p.jpg",
+        "specs": {
+            "core_count": 20,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "5.6 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 125,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-14600K",
+        "brand": "Intel",
+        "price": 284.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c8f65245aff45313f03aaad255078883.256p.jpg",
+        "specs": {
+            "core_count": 14,
+            "core_clock": "3.5 GHz",
+            "boost_clock": "5.3 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 125,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-12400F",
+        "brand": "Intel",
+        "price": 137.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5fe3c9cc8cbaaa4aa52aed7389d2cc10.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "2.5 GHz",
+            "boost_clock": "4.4 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-14900K",
+        "brand": "Intel",
+        "price": 438.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c9117c605854e9387e57cd69ebca2415.256p.jpg",
+        "specs": {
+            "core_count": 24,
+            "core_clock": "3.2 GHz",
+            "boost_clock": "6 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 125,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core Ultra 7 265K",
+        "brand": "Intel",
+        "price": 285.29,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/19fb12d5828d3ae540e91eefa4160b79.256p.jpg",
+        "specs": {
+            "core_count": 20,
+            "core_clock": "3.9 GHz",
+            "boost_clock": "5.5 GHz",
+            "microarchitecture": "Arrow Lake",
+            "tdp": 125,
+            "integrated_graphics": "Intel Xe",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core Ultra 9 285K",
+        "brand": "Intel",
+        "price": 519.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d658fbb8695607dc4964431e6b6b9373.256p.jpg",
+        "specs": {
+            "core_count": 24,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "5.7 GHz",
+            "microarchitecture": "Arrow Lake",
+            "tdp": 125,
+            "integrated_graphics": "Intel Xe",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-14400F",
+        "brand": "Intel",
+        "price": 223.69,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1a89e55daad13315da1822c1630dc26c.256p.jpg",
+        "specs": {
+            "core_count": 10,
+            "core_clock": "2.5 GHz",
+            "boost_clock": "4.7 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i7-12700KF",
+        "brand": "Intel",
+        "price": 225.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b69e4a2d3dd9f8fac9ed6bf1b631b0ce.256p.jpg",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "3.6 GHz",
+            "boost_clock": "5 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 125,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-12600KF",
+        "brand": "Intel",
+        "price": 169.96,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/01163d618db9518d03041c9997e23bb1.256p.jpg",
+        "specs": {
+            "core_count": 10,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "4.9 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 125,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core Ultra 7 265KF",
+        "brand": "Intel",
+        "price": 282.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/fcf1376b4011b81307f2eb83fb68d582.256p.jpg",
+        "specs": {
+            "core_count": 20,
+            "core_clock": "3.9 GHz",
+            "boost_clock": "5.5 GHz",
+            "microarchitecture": "Arrow Lake",
+            "tdp": 125,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i7-12700K",
+        "brand": "Intel",
+        "price": 256.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3f7037db801def4db8418df8e7498e6a.256p.jpg",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "3.6 GHz",
+            "boost_clock": "5 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 125,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i7-14700KF",
+        "brand": "Intel",
+        "price": 430.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/92061d6108d4c4bf0deb77943506df11.256p.jpg",
+        "specs": {
+            "core_count": 20,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "5.6 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 125,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-12900K",
+        "brand": "Intel",
+        "price": 286.93,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b9d3c68bbf713cdd1211f3792040ce95.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "3.2 GHz",
+            "boost_clock": "5.2 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 125,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-14600KF",
+        "brand": "Intel",
+        "price": 459.82,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c8f65245aff45313f03aaad255078883.256p.jpg",
+        "specs": {
+            "core_count": 14,
+            "core_clock": "3.5 GHz",
+            "boost_clock": "5.3 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 125,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-12600K",
+        "brand": "Intel",
+        "price": 184.45,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3f727799b9fc5e83f0e8953759946bd2.256p.jpg",
+        "specs": {
+            "core_count": 10,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "4.9 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 125,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core Ultra 5 225F",
+        "brand": "Intel",
+        "price": 157.97,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4ac0c32ed331c672ee51af4d468f3d72.256p.jpg",
+        "specs": {
+            "core_count": 10,
+            "core_clock": "3.3 GHz",
+            "boost_clock": "4.9 GHz",
+            "microarchitecture": "Arrow Lake",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-14900KF",
+        "brand": "Intel",
+        "price": 429.82,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c9117c605854e9387e57cd69ebca2415.256p.jpg",
+        "specs": {
+            "core_count": 24,
+            "core_clock": "3.2 GHz",
+            "boost_clock": "6 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 125,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i7-14700F",
+        "brand": "Intel",
+        "price": 299.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/367d869b80f32e8faa3075378677e28e.256p.jpg",
+        "specs": {
+            "core_count": 20,
+            "core_clock": "2.1 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i3-12100F",
+        "brand": "Intel",
+        "price": 93.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c67d8f42c0e57b268f068172e9a3f571.256p.jpg",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "3.3 GHz",
+            "boost_clock": "4.3 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 58,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core Ultra 5 245K",
+        "brand": "Intel",
+        "price": 229.89,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1e9e70d03e7edd0274691d5f49a34a50.256p.jpg",
+        "specs": {
+            "core_count": 14,
+            "core_clock": "4.2 GHz",
+            "boost_clock": "5.2 GHz",
+            "microarchitecture": "Arrow Lake",
+            "tdp": 125,
+            "integrated_graphics": "Intel Xe",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-13400F",
+        "brand": "Intel",
+        "price": 225.01,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/17d82d241bff0efdd1c32fbcf9822c14.256p.jpg",
+        "specs": {
+            "core_count": 10,
+            "core_clock": "2.5 GHz",
+            "boost_clock": "4.6 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i3-14100F",
+        "brand": "Intel",
+        "price": 96.97,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/874cc0e600bde06d75755309677a87e2.256p.jpg",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "3.5 GHz",
+            "boost_clock": "4.7 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 58,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i7-13700K",
+        "brand": "Intel",
+        "price": 452.68,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2f3405387f23ab827695d966ea9f9682.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 125,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core Ultra 5 245KF",
+        "brand": "Intel",
+        "price": 214.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/86f90b80222ce0831fa4c548b8af3df2.256p.jpg",
+        "specs": {
+            "core_count": 14,
+            "core_clock": "4.2 GHz",
+            "boost_clock": "5.2 GHz",
+            "microarchitecture": "Arrow Lake",
+            "tdp": 125,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-14900KS",
+        "brand": "Intel",
+        "price": 588.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7f03744e2c593edbbf711b21d85c59b3.256p.jpg",
+        "specs": {
+            "core_count": 24,
+            "core_clock": "3.2 GHz",
+            "boost_clock": "6.2 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 150,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-12900KF",
+        "brand": "Intel",
+        "price": 279.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c3d3a6843e0c0a5d98155e9fa68c092c.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "3.2 GHz",
+            "boost_clock": "5.2 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 125,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-13900K",
+        "brand": "Intel",
+        "price": 549.89,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9ec7bf0f10e60c175e9b64c51bab7240.256p.jpg",
+        "specs": {
+            "core_count": 24,
+            "core_clock": "3 GHz",
+            "boost_clock": "5.8 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 125,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-13600K",
+        "brand": "Intel",
+        "price": 529.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/535b5631a223b77657804c8144c1277e.256p.jpg",
+        "specs": {
+            "core_count": 14,
+            "core_clock": "3.5 GHz",
+            "boost_clock": "5.1 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 125,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-14400",
+        "brand": "Intel",
+        "price": 195.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/be9f67b5c1dc033e0373e28beba6a220.256p.jpg",
+        "specs": {
+            "core_count": 10,
+            "core_clock": "2.5 GHz",
+            "boost_clock": "4.7 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 730",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-12400",
+        "brand": "Intel",
+        "price": 199.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/331bcd7f5044608c8b4e0a2437219229.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "2.5 GHz",
+            "boost_clock": "4.4 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 730",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-13600KF",
+        "brand": "Intel",
+        "price": 299.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d151778af9f52d6ab1f9475a0ae84dc0.256p.jpg",
+        "specs": {
+            "core_count": 14,
+            "core_clock": "3.5 GHz",
+            "boost_clock": "5.1 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 125,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i7-12700F",
+        "brand": "Intel",
+        "price": 244.97,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1d6c5691988047da895d68961c33fe95.256p.jpg",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "2.1 GHz",
+            "boost_clock": "4.9 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core Ultra 7 265F",
+        "brand": "Intel",
+        "price": 329.95,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c00ff53f4acdc4d3992f146486edf1ff.256p.jpg",
+        "specs": {
+            "core_count": 20,
+            "core_clock": "2.4 GHz",
+            "boost_clock": "5.3 GHz",
+            "microarchitecture": "Arrow Lake",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core Ultra 5 225",
+        "brand": "Intel",
+        "price": 189.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/58a1d2f8d0a6d13c9a6bd33593b65980.256p.jpg",
+        "specs": {
+            "core_count": 10,
+            "core_clock": "3.3 GHz",
+            "boost_clock": "4.9 GHz",
+            "microarchitecture": "Arrow Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel Xe",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i3-12100",
+        "brand": "Intel",
+        "price": 189.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7fc9bd473f09de3bff4a5a44e832f399.256p.jpg",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "3.3 GHz",
+            "boost_clock": "4.3 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 60,
+            "integrated_graphics": "Intel UHD Graphics 730",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i7-13700KF",
+        "brand": "Intel",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b2de198020c1bb1bda375064b94e60dc.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 125,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core Ultra 9 285",
+        "brand": "Intel",
+        "price": 560.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a051aaa938a14c4da1beb701532ad526.256p.jpg",
+        "specs": {
+            "core_count": 24,
+            "core_clock": "2.5 GHz",
+            "boost_clock": "5.6 GHz",
+            "microarchitecture": "Arrow Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel Xe",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i7-13700F",
+        "brand": "Intel",
+        "price": 362.34,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e02f59843736d101374f75d18c244a30.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "2.1 GHz",
+            "boost_clock": "5.2 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i3-13100F",
+        "brand": "Intel",
+        "price": 88.44,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/735d84f17256242adcfad88d56d590bf.256p.jpg",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "4.5 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 58,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core Ultra 7 265",
+        "brand": "Intel",
+        "price": 349.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c67f264d8f856369d608653e1172a492.256p.jpg",
+        "specs": {
+            "core_count": 20,
+            "core_clock": "2.4 GHz",
+            "boost_clock": "5.3 GHz",
+            "microarchitecture": "Arrow Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel Xe",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i3-14100",
+        "brand": "Intel",
+        "price": 135.29,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/874cc0e600bde06d75755309677a87e2.256p.jpg",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "3.5 GHz",
+            "boost_clock": "4.7 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 60,
+            "integrated_graphics": "Intel UHD Graphics 730",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i7-12700",
+        "brand": "Intel",
+        "price": 318.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c8944273cfc755a0b216001a90b9fba2.256p.jpg",
+        "specs": {
+            "core_count": 12,
+            "core_clock": "2.1 GHz",
+            "boost_clock": "4.9 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-13900KF",
+        "brand": "Intel",
+        "price": 556.15,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ef583b00501fbe1d9df909c3ffe2b413.256p.jpg",
+        "specs": {
+            "core_count": 24,
+            "core_clock": "3 GHz",
+            "boost_clock": "5.8 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 125,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-14500",
+        "brand": "Intel",
+        "price": 275.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c70c79371c7131082c89348493ae7998.256p.jpg",
+        "specs": {
+            "core_count": 14,
+            "core_clock": "2.6 GHz",
+            "boost_clock": "5 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i7-14700",
+        "brand": "Intel",
+        "price": 399.0,
+        "image": "https://m.media-amazon.com/images/I/31wU3YIRf4L.jpg",
+        "specs": {
+            "core_count": 20,
+            "core_clock": "2.1 GHz",
+            "boost_clock": "5.4 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-12900KS",
+        "brand": "Intel",
+        "price": 355.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b3fd483f4dc6bc63faff298cdffb41d5.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "5.5 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 150,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-12500",
+        "brand": "Intel",
+        "price": 206.97,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a2eebdda7c48c480719d4cb491f660dc.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3 GHz",
+            "boost_clock": "4.6 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-13900KS",
+        "brand": "Intel",
+        "price": 707.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4129af6f0163dfd9dad75e57aae5a99d.256p.jpg",
+        "specs": {
+            "core_count": 24,
+            "core_clock": "3 GHz",
+            "boost_clock": "6 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 150,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-13500",
+        "brand": "Intel",
+        "price": 339.98,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6afcbca8a6703a4c42dba3d6c4720724.256p.jpg",
+        "specs": {
+            "core_count": 14,
+            "core_clock": "2.5 GHz",
+            "boost_clock": "4.8 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-13400",
+        "brand": "Intel",
+        "price": 326.07,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1fa41c2b4b5cf8ab078c42259685c8ed.256p.jpg",
+        "specs": {
+            "core_count": 10,
+            "core_clock": "2.5 GHz",
+            "boost_clock": "4.6 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 730",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-14900F",
+        "brand": "Intel",
+        "price": 476.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9ad5851cc322799cc6c3352f6a899247.256p.jpg",
+        "specs": {
+            "core_count": 24,
+            "core_clock": "2 GHz",
+            "boost_clock": "5.8 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core Ultra 5 235",
+        "brand": "Intel",
+        "price": 277.3,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e252c9d0aba0219dcae0b0bcd3894808.256p.jpg",
+        "specs": {
+            "core_count": 14,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "5 GHz",
+            "microarchitecture": "Arrow Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel Xe",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i7-13700",
+        "brand": "Intel",
+        "price": 834.12,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e02f59843736d101374f75d18c244a30.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "2.1 GHz",
+            "boost_clock": "5.2 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-14900",
+        "brand": "Intel",
+        "price": 569.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6bef271d59cd2a9b4f13fe95c18e2892.256p.jpg",
+        "specs": {
+            "core_count": 24,
+            "core_clock": "2 GHz",
+            "boost_clock": "5.8 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-12900F",
+        "brand": "Intel",
+        "price": 345.34,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c709a7db2862582c1870c1b399fd7499.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "2.4 GHz",
+            "boost_clock": "5.1 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-12600",
+        "brand": "Intel",
+        "price": 249.97,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7a8133e4d1ab12830ce867e2958bbc2b.256p.jpg",
+        "specs": {
+            "core_count": 6,
+            "core_clock": "3.3 GHz",
+            "boost_clock": "4.8 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i3-13100",
+        "brand": "Intel",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a11139b5e266b9760da436a86b407035.256p.jpg",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "4.5 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 60,
+            "integrated_graphics": "Intel UHD Graphics 730",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Celeron G6900",
+        "brand": "Intel",
+        "price": 56.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9741c4e0d5347f8b94409b0414f416db.256p.jpg",
+        "specs": {
+            "core_count": 2,
+            "core_clock": "3.4 GHz",
+            "boost_clock": "",
+            "microarchitecture": "Alder Lake",
+            "tdp": 46,
+            "integrated_graphics": "Intel UHD Graphics 710",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Pentium Gold G7400",
+        "brand": "Intel",
+        "price": 111.6,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/eb5f4691a0ee2ac68328fbedd3956538.256p.jpg",
+        "specs": {
+            "core_count": 2,
+            "core_clock": "3.7 GHz",
+            "boost_clock": "",
+            "microarchitecture": "Alder Lake",
+            "tdp": 46,
+            "integrated_graphics": "Intel UHD Graphics 710",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-13900",
+        "brand": "Intel",
+        "price": 549.99,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6677778b05f29fbfd12dd49c16f2069f.256p.jpg",
+        "specs": {
+            "core_count": 24,
+            "core_clock": "2 GHz",
+            "boost_clock": "5.6 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-13900F",
+        "brand": "Intel",
+        "price": 472.05,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b8fab5fbdca5b7f19d806800e9d07b16.256p.jpg",
+        "specs": {
+            "core_count": 24,
+            "core_clock": "2 GHz",
+            "boost_clock": "5.6 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 65,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-12900",
+        "brand": "Intel",
+        "price": 391.4,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b61a0cfda1c9f56fda7c2f91dacd9046.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "2.4 GHz",
+            "boost_clock": "5.1 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i9-13900T",
+        "brand": "Intel",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 24,
+            "core_clock": "1.1 GHz",
+            "boost_clock": "5.3 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 35,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i3-12100T",
+        "brand": "Intel",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/37a75ae4d16234910c87ae465dfc89da.256p.jpg",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "2.2 GHz",
+            "boost_clock": "4.1 GHz",
+            "microarchitecture": "Alder Lake",
+            "tdp": 35,
+            "integrated_graphics": "Intel UHD Graphics 730",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-13500T",
+        "brand": "Intel",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 14,
+            "core_clock": "1.6 GHz",
+            "boost_clock": "4.6 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 35,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-14500T",
+        "brand": "Intel",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 14,
+            "core_clock": "1.7 GHz",
+            "boost_clock": "4.8 GHz",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 35,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel 300",
+        "brand": "Intel",
+        "price": 141.05,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/47591ba76caa6bc7d3101448ae74d04f.256p.jpg",
+        "specs": {
+            "core_count": 2,
+            "core_clock": "3.9 GHz",
+            "boost_clock": "",
+            "microarchitecture": "Raptor Lake Refresh",
+            "tdp": 46,
+            "integrated_graphics": "Intel UHD Graphics 710",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i7-13700T",
+        "brand": "Intel",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1e486767a2ba0bdf2727648eee3aed63.256p.jpg",
+        "specs": {
+            "core_count": 16,
+            "core_clock": "1.4 GHz",
+            "boost_clock": "4.9 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 35,
+            "integrated_graphics": "None",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core Ultra 5 245",
+        "brand": "Intel",
+        "price": 0.0,
+        "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a05314908d0b37259e7a2b1a5e3a4b56.256p.jpg",
+        "specs": {
+            "core_count": 14,
+            "core_clock": "3.5 GHz",
+            "boost_clock": "5.1 GHz",
+            "microarchitecture": "Arrow Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel Xe",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i3-13100T",
+        "brand": "Intel",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 4,
+            "core_clock": "2.5 GHz",
+            "boost_clock": "4.2 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 35,
+            "integrated_graphics": "Intel UHD Graphics 730",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "name": "Intel Core i5-13600",
+        "brand": "Intel",
+        "price": 0.0,
+        "image": "/static/forever/img/no-image.png",
+        "specs": {
+            "core_count": 14,
+            "core_clock": "2.7 GHz",
+            "boost_clock": "5 GHz",
+            "microarchitecture": "Raptor Lake",
+            "tdp": 65,
+            "integrated_graphics": "Intel UHD Graphics 770",
+            "socket": "Unknown"
+        },
+        "type": "cpu",
+        "last_updated": "2026-01-01"
+    }
+]
