@@ -1,35 +1,45 @@
-const Component = require('../../data/models/Component');
+// IMPORTANTE: Ya no importamos el Modelo directamente.
+// Importamos el Repositorio.
+const componentRepository = require('../../data/repositories/componentRepository');
 
-// @desc    Obtener todos los componentes (CPUs)
-// @route   GET /api/v1/components
+// @desc    Obtener componentes con filtros
+// @route   GET /api/v1/components?brand=AMD&type=cpu
 // @access  Public
 exports.getComponents = async (req, res) => {
     try {
-        // 1. Buscamos en la BD usando Mongoose
-        // .find() trae todo. .sort() ordena por fecha de creación (más nuevo primero)
-        const components = await Component.find().sort({ createdAt: -1 });
+        // 1. Extraer filtros de la URL (Query Params)
+        // Ejemplo: Si la URL es .../components?brand=AMD
+        const filterOptions = {};
+        
+        if (req.query.brand) {
+            filterOptions.brand = req.query.brand;
+        }
+        if (req.query.type) {
+            filterOptions.type = req.query.type;
+        }
 
-        // 2. Respondemos con JSON estandarizado
+        // 2. Pedir datos al repositorio (El controlador no sabe de Mongoose)
+        const components = await componentRepository.findAll(filterOptions);
+
+        // 3. Respuesta
         res.status(200).json({
             success: true,
             count: components.length,
+            filters_applied: filterOptions,
             data: components
         });
     } catch (error) {
-        // Si algo falla (BD caída, error de red)
         res.status(500).json({
             success: false,
-            error: 'Error del Servidor',
+            error: 'Error al obtener datos',
             details: error.message
         });
     }
 };
 
-// @desc    Obtener un solo componente por ID
-// @route   GET /api/v1/components/:id
 exports.getComponentById = async (req, res) => {
     try {
-        const component = await Component.findById(req.params.id);
+        const component = await componentRepository.findById(req.params.id);
 
         if (!component) {
             return res.status(404).json({
