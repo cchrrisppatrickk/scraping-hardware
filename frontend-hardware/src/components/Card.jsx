@@ -1,51 +1,45 @@
-// src/components/Card.jsx
-function Card({ component }) {
-  // Desestructuramos los datos para escribir menos
+// Aceptamos una nueva prop: onSelect
+function Card({ component, onSelect }) {
   const { name, price, image, specs, brand } = component;
-
-  // Color dinámico según la marca
   const brandColor = brand === 'AMD' ? 'bg-red-600' : 'bg-blue-600';
 
   return (
-    <div className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
+    <div className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 flex flex-col h-full">
       {/* Imagen */}
-      <div className="h-48 w-full bg-gray-100 flex items-center justify-center p-4">
-        <img 
-          src={image} 
-          alt={name} 
-          className="max-h-full object-contain"
-        />
+      <div className="h-48 w-full bg-gray-100 flex items-center justify-center p-4 relative">
+        <span className={`absolute top-2 left-2 ${brandColor} text-white text-xs font-bold px-2 py-1 rounded`}>
+            {brand}
+        </span>
+        <img src={image} alt={name} className="max-h-full object-contain mix-blend-multiply" />
       </div>
 
       {/* Contenido */}
-      <div className="p-5">
-        <div className="flex justify-between items-start mb-2">
-          <span className={`${brandColor} text-white text-xs font-bold px-2 py-1 rounded`}>
-            {brand}
-          </span>
-          <span className="text-gray-500 text-xs font-mono">
-            {component.type.toUpperCase()}
-          </span>
+      <div className="p-4 flex-grow flex flex-col justify-between">
+        <div>
+          <h3 className="font-bold text-gray-800 text-md leading-tight mb-2 line-clamp-2">
+            {name}
+          </h3>
+          <div className="text-xs text-gray-500 mb-3 space-y-1">
+            <p>🧩 {specs.core_count} Cores • {specs.core_clock}</p>
+            <p>⚡ {specs.tdp}W TDP</p>
+          </div>
         </div>
 
-        <h3 className="font-bold text-gray-800 text-lg leading-tight mb-2 h-12 overflow-hidden">
-          {name}
-        </h3>
-
-        {/* Specs Resumidas */}
-        <div className="text-sm text-gray-600 mb-4 space-y-1">
-          <p>🧩 Núcleos: <span className="font-semibold">{specs.core_count}</span></p>
-          <p>⚡ Reloj: <span className="font-semibold">{specs.core_clock}</span></p>
-        </div>
-
-        {/* Precio */}
-        <div className="flex justify-between items-center border-t pt-3">
-          <span className="text-2xl font-bold text-green-600">
+        {/* Footer de la tarjeta con Precio y Botón */}
+        <div className="mt-2 pt-3 border-t flex justify-between items-center">
+          <span className="text-xl font-bold text-green-700">
             ${price}
           </span>
-          <button className="bg-gray-900 text-white px-3 py-2 rounded-lg text-sm hover:bg-gray-700">
-            Ver Detalles
-          </button>
+          
+          {/* Si nos pasaron la función onSelect, mostramos el botón Añadir */}
+          {onSelect && (
+            <button 
+              onClick={onSelect}
+              className="bg-blue-600 text-white px-3 py-1.5 rounded text-sm hover:bg-blue-700 font-medium transition-colors"
+            >
+              + Añadir
+            </button>
+          )}
         </div>
       </div>
     </div>
