@@ -1,3 +1,6 @@
+// Agrega Link a los imports
+import { Link } from 'react-router-dom';
+
 // Aceptamos una nueva prop: onSelect
 function Card({ component, onSelect }) {
   const { name, price, image, specs, brand } = component;
@@ -5,20 +8,30 @@ function Card({ component, onSelect }) {
 
   return (
     <div className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 flex flex-col h-full">
-      {/* Imagen */}
+      
+      {/* Envolvemos la imagen en un Link hacia el detalle */}
+      <Link to={`/product/${component._id}`} className="block h-48 w-full bg-gray-100 ... cursor-pointer">
+         {/* Imagen */}
       <div className="h-48 w-full bg-gray-100 flex items-center justify-center p-4 relative">
         <span className={`absolute top-2 left-2 ${brandColor} text-white text-xs font-bold px-2 py-1 rounded`}>
             {brand}
         </span>
         <img src={image} alt={name} className="max-h-full object-contain mix-blend-multiply" />
       </div>
+      </Link>
+
+
+
 
       {/* Contenido */}
       <div className="p-4 flex-grow flex flex-col justify-between">
         <div>
-          <h3 className="font-bold text-gray-800 text-md leading-tight mb-2 line-clamp-2">
+          {/* El título también es un Link */}
+          <Link to={`/product/${component._id}`} className="hover:text-blue-600 transition-colors">
+           <h3 className="font-bold text-gray-800 text-md leading-tight mb-2 line-clamp-2">
             {name}
           </h3>
+          </Link>
           <div className="text-xs text-gray-500 mb-3 space-y-1">
             <p>🧩 {specs.core_count} Cores • {specs.core_clock}</p>
             <p>⚡ {specs.tdp}W TDP</p>
