@@ -1,58 +1,74 @@
-// IMPORTANTE: Ya no importamos el Modelo directamente.
-// Importamos el Repositorio.
+const scrapingService = require('../../services/scrapingService');
+// Asegúrate de usar la ruta correcta a tu modelo o repositorio
+const Component = require('../../data/models/Component'); 
 const componentRepository = require('../../data/repositories/componentRepository');
 
-// @desc    Obtener componentes con filtros
-// @route   GET /api/v1/components?brand=AMD&type=cpu
-// @access  Public
+// 1. Obtener todos los componentes
 exports.getComponents = async (req, res) => {
     try {
-        // 1. Extraer filtros de la URL (Query Params)
-        // Ejemplo: Si la URL es .../components?brand=AMD
         const filterOptions = {};
-        
-        if (req.query.brand) {
-            filterOptions.brand = req.query.brand;
-        }
-        if (req.query.type) {
-            filterOptions.type = req.query.type;
-        }
+        if (req.query.brand) filterOptions.brand = req.query.brand;
+        if (req.query.type) filterOptions.type = req.query.type;
 
-        // 2. Pedir datos al repositorio (El controlador no sabe de Mongoose)
         const components = await componentRepository.findAll(filterOptions);
 
-        // 3. Respuesta
         res.status(200).json({
             success: true,
             count: components.length,
-            filters_applied: filterOptions,
             data: components
         });
     } catch (error) {
-        res.status(500).json({
-            success: false,
-            error: 'Error al obtener datos',
-            details: error.message
-        });
+        res.status(500).json({ success: false, error: error.message });
     }
 };
 
+// 2. Obtener un componente por ID
 exports.getComponentById = async (req, res) => {
     try {
         const component = await componentRepository.findById(req.params.id);
-
         if (!component) {
-            return res.status(404).json({
-                success: false,
-                error: 'Componente no encontrado'
-            });
+            return res.status(404).json({ success: false, error: 'Componente no encontrado' });
+        }
+        res.status(200).json({ success: true, data: component });
+    } catch (error) {
+        res.status(500).json({ success: false, error: error.message });
+    }
+};
+
+// 3. Agregar Link de Rastreo (LA NUEVA FUNCIÓN)
+exports.addTrackedLink = async (req, res) => {
+    try {
+        const { id } = req.params;
+        const { url } = req.body;
+
+        if (!url) return res.status(400).json({ success: false, error: 'URL requerida' });
+
+        const component = await Component.findById(id);
+        if (!component) return res.status(404).json({ success: false, error: 'Componente no encontrado' });
+
+        // Scrapeo Inicial
+        const scrapedData = await scrapingService.scrapeProduct(url);
+        
+        if (!scrapedData || scrapedData.price === 0) {
+            return res.status(400).json({ success: false, error: 'No se pudo obtener precio' });
         }
 
-        res.status(200).json({
-            success: true,
-            data: component
-        });
+        const newStore = {
+            store_name: new URL(url).hostname.replace('www.', ''),
+            url: url,
+            price: scrapedData.price,
+            currency: scrapedData.currency || 'USD',
+            in_stock: scrapedData.stock,
+            last_checked: new Date()
+        };
+
+        component.tracked_stores.push(newStore);
+        await component.save();
+
+        res.status(200).json({ success: true, data: component });
+
     } catch (error) {
+        console.error(error);
         res.status(500).json({ success: false, error: error.message });
     }
 };
