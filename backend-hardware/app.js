@@ -4,6 +4,7 @@ const cors = require('cors');
 const helmet = require('helmet');
 const morgan = require('morgan');
 const connectDB = require('./src/config/db'); // Ajusta la ruta si tu app.js está en src o raíz
+const scrapingRoutes = require('./src/api/routes/scrapingRoutes'); // <--- IMPORTAR
 
 // 1. Cargar config y conectar BD
 dotenv.config();
@@ -22,6 +23,7 @@ app.use(morgan('dev'));  // Logger de peticiones en consola
 // Todas las rutas de componentes empezarán con /api/v1/components
 const componentRoutes = require('./src/api/routes/componentRoutes');
 app.use('/api/v1/components', componentRoutes);
+app.use('/api/v1/scraping', scrapingRoutes); // <--- REGISTRAR
 
 // 5. Iniciar el Servidor
 const PORT = process.env.PORT || 3000;
