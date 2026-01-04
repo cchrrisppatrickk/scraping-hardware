@@ -1,0 +1,254 @@
+[
+    {
+        "component_id": "6956de9072b68b897494a797",
+        "component_name": "AMD Ryzen 7 5700",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-5000/643004-procesador-amd-ryzen-7-5700-am4-amd.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7a7",
+        "component_name": "AMD Ryzen 9 7900",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-9000/642990-procesador-amd-ryzen-9-9700-am5.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7a3",
+        "component_name": "AMD Ryzen 5 5600XT",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-5000/642763-procesador-amd-ryzen-5-5600xt.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7b4",
+        "component_name": "AMD Ryzen 5 5500X3D",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-5000/642498-procesador-amd-ryzen-5-5500x3d-am4.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a789",
+        "component_name": "AMD Ryzen 7 5800XT",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-5000/641871-procesador-amd-ryzen-7-5800xt.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a79e",
+        "component_name": "AMD Ryzen 3 3200G",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-5000/641826-procesador-amd-ryzen-5-5300g-am4.html",
+        "match_score": 92
+    },
+    {
+        "component_id": "6956de9072b68b897494a79b",
+        "component_name": "AMD Ryzen 7 8700G",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-8000/151493-procesador-amd-ryzen-5-8700g-am5.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a799",
+        "component_name": "AMD Ryzen 5 5600GT",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-5000/19507-procesador-amd-ryzen-5-5600gt.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a79d",
+        "component_name": "AMD Ryzen 5 8600G",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-8000/19400-procesador-amd-ryzen-5-8600g-am5.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a791",
+        "component_name": "AMD Ryzen 5 8500G",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-8000/19399-procesador-amd-ryzen-5-8500g-am5-amd.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a787",
+        "component_name": "AMD Ryzen 5 7600",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-7000/15771-procesador-amd-ryzen-5-7600-am5.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a781",
+        "component_name": "AMD Ryzen 5 5600",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-5000/15726-procesador-amd-ryzen5-5600.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a797",
+        "component_name": "AMD Ryzen 7 5700",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-4000/15725-procesador-amd-ryzen-5-4500.html",
+        "match_score": 83
+    },
+    {
+        "component_id": "6956de9072b68b897494a77a",
+        "component_name": "AMD Ryzen 7 7800X3D",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-7000/15679-procesador-amd-ryzen-7-7800x3d.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a77e",
+        "component_name": "AMD Ryzen 5 5500",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-5000/15233-procesador-amd-ryzen-5-5500.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a788",
+        "component_name": "AMD Ryzen 9 7900X",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-7000/15090-procesador-amd-ryzen-9-7900x-am5.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a784",
+        "component_name": "AMD Ryzen 7 5700X",
+        "store_url": "https://sercoplus.com/procesadores-amd/13794-procesador-amd-ryzen-5700x.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a790",
+        "component_name": "AMD Ryzen 7 5700G",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-5000/12799-procesador-amd-ryzen-7-5700g.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a783",
+        "component_name": "AMD Ryzen 5 5600X",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-5000/11630-procesador-amd-ryzen-5-5600x.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a79e",
+        "component_name": "AMD Ryzen 3 3200G",
+        "store_url": "https://sercoplus.com/amd-ryzen-series-3000/10231-procesador-amd-ryzen-3-3200g.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a77c",
+        "component_name": "AMD Ryzen 5 7600X",
+        "store_url": "https://sercoplus.com/procesadores-amd/15088-procesador-amd-ryzen-5-7600x-am5.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a780",
+        "component_name": "AMD Ryzen 7 7700X",
+        "store_url": "https://sercoplus.com/procesadores-amd/15089-procesador-amd-ryzen-7-7700x-am5.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a812",
+        "component_name": "Intel Core i9-12900",
+        "store_url": "https://sercoplus.com/cpu-1700-12va-generacion/13963-procesador-intel-core-i9-12900.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7f7",
+        "component_name": "Intel Core i3-12100",
+        "store_url": "https://sercoplus.com/cpu-1700-12va-generacion/13867-procesador-intel-core-i3-12100.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7fe",
+        "component_name": "Intel Core i7-12700",
+        "store_url": "https://sercoplus.com/cpu-1700-12va-generacion/13641-procesador-intel-core-i7-12700.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7e7",
+        "component_name": "Intel Core i3-12100F",
+        "store_url": "https://sercoplus.com/cpu-1700-12va-generacion/13387-procesador-intel-core-i3-12100f.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7f4",
+        "component_name": "Intel Core i7-12700F",
+        "store_url": "https://sercoplus.com/cpu-1700-12va-generacion/13373-procesador-intel-core-i7-12700f.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7d7",
+        "component_name": "Intel Core i5-12400F",
+        "store_url": "https://sercoplus.com/cpu-1700-12va-generacion/13327-procesador-intel-core-i5-12400f.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7f2",
+        "component_name": "Intel Core i5-12400",
+        "store_url": "https://sercoplus.com/cpu-1700-12va-generacion/13326-procesador-intel-core-i5-12400.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7dd",
+        "component_name": "Intel Core i5-12600KF",
+        "store_url": "https://sercoplus.com/cpu-1700-12va-generacion/13239-procesador-intel-core-i5-12600kf.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7e1",
+        "component_name": "Intel Core i9-12900K",
+        "store_url": "https://sercoplus.com/cpu-1700-12va-generacion/13192-procesador-intel-core-i9-12900k.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7ee",
+        "component_name": "Intel Core i9-12900KF",
+        "store_url": "https://sercoplus.com/cpu-1700-12va-generacion/13191-procesador-intel-core-i9-12900kf.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7e3",
+        "component_name": "Intel Core i5-12600K",
+        "store_url": "https://sercoplus.com/cpu-1700-12va-generacion/13190-procesador-intel-core-i5-12600k.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7df",
+        "component_name": "Intel Core i7-12700K",
+        "store_url": "https://sercoplus.com/cpu-1700-12va-generacion/13189-procesador-intel-core-i7-12700k.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7dc",
+        "component_name": "Intel Core i7-12700KF",
+        "store_url": "https://sercoplus.com/cpu-1700-12va-generacion/13188-procesador-intel-core-i7-12700kf.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7f7",
+        "component_name": "Intel Core i3-12100",
+        "store_url": "https://sercoplus.com/cpu-1200-10ma-generacion/12716-procesador-intel-core-i3-10105.html",
+        "match_score": 85
+    },
+    {
+        "component_id": "6956de9072b68b897494a7e7",
+        "component_name": "Intel Core i3-12100F",
+        "store_url": "https://sercoplus.com/cpu-1200-10ma-generacion/12303-procesador-intel-core-i3-10105f.html",
+        "match_score": 86
+    },
+    {
+        "component_id": "6956de9072b68b897494a7d7",
+        "component_name": "Intel Core i5-12400F",
+        "store_url": "https://sercoplus.com/cpu-1200-11va-generacion/12298-procesador-intel-core-i5-11400f.html",
+        "match_score": 93
+    },
+    {
+        "component_id": "6956de9072b68b897494a7f1",
+        "component_name": "Intel Core i5-14400",
+        "store_url": "https://sercoplus.com/cpu-1200-10ma-generacion/10952-procesador-intel-core-i5.html",
+        "match_score": 92
+    },
+    {
+        "component_id": "6956de9072b68b897494a7d7",
+        "component_name": "Intel Core i5-12400F",
+        "store_url": "https://sercoplus.com/cpu-1200-10ma-generacion/10848-procesador-intel-core-i5-10400f.html",
+        "match_score": 93
+    },
+    {
+        "component_id": "6956de9072b68b897494a80b",
+        "component_name": "Intel Core i9-12900F",
+        "store_url": "https://sercoplus.com/procesadores-intel/13977-procesador-intel-core-i9-12900f.html",
+        "match_score": 100
+    },
+    {
+        "component_id": "6956de9072b68b897494a7f7",
+        "component_name": "Intel Core i3-12100",
+        "store_url": "https://sercoplus.com/procesadores-intel/11429-procesador-intel-core-i3-9100.html",
+        "match_score": 88
+    }
+]
