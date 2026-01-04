@@ -1,0 +1,980 @@
+[
+    {
+        "_id": "6956de9072b68b897494a779",
+        "name": "AMD Ryzen 7 9800X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a77b",
+        "name": "AMD Ryzen 5 9600X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a77c",
+        "name": "AMD Ryzen 5 7600X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a77d",
+        "name": "AMD Ryzen 9 9950X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a77f",
+        "name": "AMD Ryzen 7 9700X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a780",
+        "name": "AMD Ryzen 7 7700X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a781",
+        "name": "AMD Ryzen 5 5600",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a782",
+        "name": "AMD Ryzen 7 5800X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a783",
+        "name": "AMD Ryzen 5 5600X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a77a",
+        "name": "AMD Ryzen 7 7800X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a785",
+        "name": "AMD Ryzen 5 7500F",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a786",
+        "name": "AMD Ryzen 9 9900X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a787",
+        "name": "AMD Ryzen 5 7600",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a788",
+        "name": "AMD Ryzen 9 7900X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a789",
+        "name": "AMD Ryzen 7 5800XT",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a78a",
+        "name": "AMD Ryzen 5 8400F",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a78b",
+        "name": "AMD Ryzen 9 5900X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a78c",
+        "name": "AMD Ryzen 5 7600X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a78e",
+        "name": "AMD Ryzen 7 5800X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a78d",
+        "name": "AMD Ryzen 9 9950X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a77e",
+        "name": "AMD Ryzen 5 5500",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a790",
+        "name": "AMD Ryzen 7 5700G",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a791",
+        "name": "AMD Ryzen 5 8500G",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a792",
+        "name": "AMD Ryzen 5 5600G",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a793",
+        "name": "AMD Ryzen 7 5700X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a794",
+        "name": "AMD Ryzen 7 7700",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a795",
+        "name": "AMD Ryzen 9 9900X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a796",
+        "name": "AMD Ryzen 7 8700F",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a797",
+        "name": "AMD Ryzen 7 5700",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a798",
+        "name": "AMD Ryzen 7 7800X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a799",
+        "name": "AMD Ryzen 5 5600GT",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a784",
+        "name": "AMD Ryzen 7 5700X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a79b",
+        "name": "AMD Ryzen 7 8700G",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a79c",
+        "name": "AMD Ryzen 5 2600",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a79d",
+        "name": "AMD Ryzen 5 8600G",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a79e",
+        "name": "AMD Ryzen 3 3200G",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a79f",
+        "name": "AMD Ryzen 5 7500F",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7a0",
+        "name": "AMD Ryzen 9 7950X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7a1",
+        "name": "AMD Ryzen 5 3400G",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7a2",
+        "name": "AMD Ryzen 9 5900XT",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7a3",
+        "name": "AMD Ryzen 5 5600XT",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7a4",
+        "name": "AMD Ryzen 7 2700X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7a5",
+        "name": "AMD Ryzen 5 7500X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7a6",
+        "name": "AMD Ryzen 5 5500GT",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7a7",
+        "name": "AMD Ryzen 9 7900",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7a8",
+        "name": "AMD Ryzen 9 7900X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7a9",
+        "name": "AMD Ryzen 5 9600",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7aa",
+        "name": "AMD Ryzen 5 2600X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7ab",
+        "name": "AMD Ryzen 7 7700",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7ac",
+        "name": "AMD Ryzen 7 2700",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a78f",
+        "name": "AMD Ryzen 9 5950X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7ae",
+        "name": "AMD Ryzen 9 PRO 7945",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7b0",
+        "name": "AMD EPYC 4585PX",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7af",
+        "name": "AMD Ryzen 5 5600X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7b1",
+        "name": "AMD Ryzen 5 5600T",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7b2",
+        "name": "AMD Ryzen 5 1600 (12nm)",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7b3",
+        "name": "AMD Ryzen 5 7600X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7b4",
+        "name": "AMD Ryzen 5 5500X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7b6",
+        "name": "AMD Ryzen 5 9500F",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7b5",
+        "name": "AMD EPYC 4545P",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7b7",
+        "name": "AMD Ryzen 7 9700F",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7b8",
+        "name": "AMD EPYC 4564P",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7b9",
+        "name": "AMD EPYC 4565P",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7ba",
+        "name": "AMD Ryzen 5 5600XT",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7bc",
+        "name": "AMD Ryzen 9 PRO 9945",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7bb",
+        "name": "AMD Ryzen 5 3400G",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a79a",
+        "name": "AMD Ryzen 9 7950X3D",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7be",
+        "name": "AMD EPYC 4464P",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7bf",
+        "name": "AMD Ryzen 5 7400",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7c0",
+        "name": "AMD Ryzen 5 2600",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7c1",
+        "name": "AMD EPYC 4245P",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7c2",
+        "name": "AMD Ryzen 5 2600X",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7c3",
+        "name": "AMD EPYC 4465P",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7c4",
+        "name": "AMD EPYC 4364P",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7c5",
+        "name": "AMD Ryzen 3 1200 (12nm)",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7c6",
+        "name": "AMD Ryzen 5 5600T",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7c7",
+        "name": "AMD Ryzen 5 5600F",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7c8",
+        "name": "AMD Ryzen 5 PRO 7645",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7c9",
+        "name": "AMD Ryzen 7 PRO 7745",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7ca",
+        "name": "AMD EPYC 4345P",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7cb",
+        "name": "AMD EPYC 4244P",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7cc",
+        "name": "AMD Ryzen 7 PRO 7745",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7ce",
+        "name": "AMD Ryzen 7 PRO 9745",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7cd",
+        "name": "AMD Ryzen 7 2700",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7cf",
+        "name": "AMD Ryzen 5 PRO 7445",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7d0",
+        "name": "AMD Ryzen 5 PRO 9645",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7d1",
+        "name": "AMD Ryzen 3 1200 (12nm)",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7d2",
+        "name": "AMD EPYC 4584PX",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7d3",
+        "name": "AMD EPYC 4344P",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7ad",
+        "name": "AMD Ryzen 5 7400F",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7d5",
+        "name": "Intel Core i7-14700K",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7d6",
+        "name": "Intel Core i5-14600K",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7d7",
+        "name": "Intel Core i5-12400F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7d8",
+        "name": "Intel Core i9-14900K",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7d9",
+        "name": "Intel Core Ultra 7 265K",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7da",
+        "name": "Intel Core Ultra 9 285K",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7db",
+        "name": "Intel Core i5-14400F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7dc",
+        "name": "Intel Core i7-12700KF",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7dd",
+        "name": "Intel Core i5-12600KF",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7de",
+        "name": "Intel Core Ultra 7 265KF",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7df",
+        "name": "Intel Core i7-12700K",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7e0",
+        "name": "Intel Core i7-14700KF",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7e1",
+        "name": "Intel Core i9-12900K",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7e2",
+        "name": "Intel Core i5-14600KF",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7e3",
+        "name": "Intel Core i5-12600K",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7e4",
+        "name": "Intel Core Ultra 5 225F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7e5",
+        "name": "Intel Core i9-14900KF",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7e7",
+        "name": "Intel Core i3-12100F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7e6",
+        "name": "Intel Core i7-14700F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7e8",
+        "name": "Intel Core Ultra 5 245K",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7e9",
+        "name": "Intel Core i5-13400F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7bd",
+        "name": "AMD Ryzen 3 3200G",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a7eb",
+        "name": "Intel Core i7-13700K",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7ec",
+        "name": "Intel Core Ultra 5 245KF",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7ed",
+        "name": "Intel Core i9-14900KS",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7ee",
+        "name": "Intel Core i9-12900KF",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7ef",
+        "name": "Intel Core i9-13900K",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7f0",
+        "name": "Intel Core i5-13600K",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7f1",
+        "name": "Intel Core i5-14400",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7f2",
+        "name": "Intel Core i5-12400",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7f3",
+        "name": "Intel Core i5-13600KF",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7f5",
+        "name": "Intel Core Ultra 7 265F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7f4",
+        "name": "Intel Core i7-12700F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7f6",
+        "name": "Intel Core Ultra 5 225",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7f7",
+        "name": "Intel Core i3-12100",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7f8",
+        "name": "Intel Core i7-13700KF",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7f9",
+        "name": "Intel Core Ultra 9 285",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7fa",
+        "name": "Intel Core i7-13700F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7fb",
+        "name": "Intel Core i3-13100F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7fc",
+        "name": "Intel Core Ultra 7 265",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7fd",
+        "name": "Intel Core i3-14100",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7fe",
+        "name": "Intel Core i7-12700",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7ff",
+        "name": "Intel Core i9-13900KF",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a800",
+        "name": "Intel Core i5-14500",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a801",
+        "name": "Intel Core i7-14700",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a802",
+        "name": "Intel Core i9-12900KS",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a803",
+        "name": "Intel Core i5-12500",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a804",
+        "name": "Intel Core i9-13900KS",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a806",
+        "name": "Intel Core i5-13400",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a805",
+        "name": "Intel Core i5-13500",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a807",
+        "name": "Intel Core i9-14900F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a808",
+        "name": "Intel Core Ultra 5 235",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a809",
+        "name": "Intel Core i7-13700",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a80a",
+        "name": "Intel Core i9-14900",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a80b",
+        "name": "Intel Core i9-12900F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7d4",
+        "name": "AMD EPYC 4484PX",
+        "type": "cpu",
+        "brand": "AMD"
+    },
+    {
+        "_id": "6956de9072b68b897494a80d",
+        "name": "Intel Core i3-13100",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a80e",
+        "name": "Intel Celeron G6900",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a80f",
+        "name": "Intel Pentium Gold G7400",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a810",
+        "name": "Intel Core i9-13900",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a811",
+        "name": "Intel Core i9-13900F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a812",
+        "name": "Intel Core i9-12900",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a814",
+        "name": "Intel Core i3-12100T",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a813",
+        "name": "Intel Core i9-13900T",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a815",
+        "name": "Intel Core i5-13500T",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a816",
+        "name": "Intel Core i5-14500T",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a817",
+        "name": "Intel 300",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a818",
+        "name": "Intel Core i7-13700T",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a819",
+        "name": "Intel Core Ultra 5 245",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a81a",
+        "name": "Intel Core i3-13100T",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a81b",
+        "name": "Intel Core i5-13600",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a7ea",
+        "name": "Intel Core i3-14100F",
+        "type": "cpu",
+        "brand": "Intel"
+    },
+    {
+        "_id": "6956de9072b68b897494a80c",
+        "name": "Intel Core i5-12600",
+        "type": "cpu",
+        "brand": "Intel"
+    }
+]
